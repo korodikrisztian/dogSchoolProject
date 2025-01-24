@@ -246,5 +246,3 @@ SELECT
     END AS age_category
 FROM
     dogs;
-    CREATE DATABASE dog_school;
-USE dog_school;
