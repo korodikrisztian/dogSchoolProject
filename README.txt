@@ -1,0 +1,1 @@
+This project involves creating a simple database for a dog training school. It contains tables for dog owners, dog trainers, and dogs. The database is designed to store and manage information about dog training sessions, including details about the dogs, their owners, and the trainers responsible for them.
